@@ -28,3 +28,7 @@ When a child starts an exam , <strong>visible timer</strong> is displayed on the
 
 When we list the students ;
 ![Screenshot (360)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/df6c5a7b-0d63-4e53-bbf3-e5e4f75de047)
+
+When we list the exams ;
+![Screenshot (361)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/fd449945-3fd7-4e78-b42d-94a0817652fb)
+<strong>(default exam that we cannot delete)</strong>
