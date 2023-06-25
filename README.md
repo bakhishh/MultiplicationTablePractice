@@ -1,12 +1,17 @@
 # MultiplicationTablePractice
 Multiplication Table Practice aims to help elementary school children memorize the multiplication table.
 <hr style = "height=1px">
-Java Swing is used for programming the GUI.
-MySQL is used for the database.
+<ul>
+  <li>Java Swing is used for programming the GUI.</li>
+  <li>MySQL is used for the database.</li>
+</ul>
+
 <hr style = "height=1px">
 After the user started the .exe file, it is required to login to the system . There are two login sections: 
-1) Admin Login  
-2) Student Login
+<ul>
+  <li>Admin Login</li>
+  <li>Student Login</li>
+</ul>
 <hr style = "height=1px">
 The default exam mode will consist of N random questions, where all possible multiplications of the form axb (a: 1..10, b: 1..10) will be asked. Admin is able to add exams by changing the ranges of a, b, and N as desired .
 <hr style = "height=1px">
