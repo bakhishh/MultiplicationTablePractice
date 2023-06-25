@@ -26,4 +26,4 @@ When a child starts an exam , <strong>visible timer</strong> is displayed on the
 
 ![Screenshot (347)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/178345ba-1e1a-4a3f-8ff3-a7b3a54e5105)
 
-
+![Screenshot (360)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/df6c5a7b-0d63-4e53-bbf3-e5e4f75de047)
