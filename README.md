@@ -22,4 +22,6 @@ When a child starts an exam , <strong>visible timer</strong> is displayed on the
 
 <hr style = "height=1px">
 
+![Screenshot (344)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/393582c3-0c9e-4cd9-8df9-e489b8500d73)
+
 
