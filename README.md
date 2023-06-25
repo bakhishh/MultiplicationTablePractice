@@ -22,4 +22,4 @@ When a child starts an exam , <strong>visible timer</strong> is displayed on the
 
 <hr style = "height=1px">
 
-![alt text](C:\Users\hp\Pictures\Screenshots\Screenshot (344).png)
+
