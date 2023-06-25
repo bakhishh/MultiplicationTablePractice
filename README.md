@@ -1,6 +1,6 @@
 # MultiplicationTablePractice
 Multiplication Table Practice aims to help elementary school children memorize the multiplication table.
-<hr style = "width=50%">
+<hr style = "height=2px">
 Java Swing is used for programming the GUI.
 MySQL is used for the database.
 
