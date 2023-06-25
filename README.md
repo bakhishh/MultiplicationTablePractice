@@ -24,11 +24,20 @@ When a child starts an exam , <strong>visible timer</strong> is displayed on the
 
 ![Screenshot (344)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/393582c3-0c9e-4cd9-8df9-e489b8500d73)
 
+
 ![Screenshot (347)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/178345ba-1e1a-4a3f-8ff3-a7b3a54e5105)
 
-When we list the students ;
+
+When admin lists the students ;
+
 ![Screenshot (360)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/df6c5a7b-0d63-4e53-bbf3-e5e4f75de047)
 
-When we list the exams ;
+
+When admin lists the exams ;
+
 ![Screenshot (361)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/fd449945-3fd7-4e78-b42d-94a0817652fb)
 <strong>(default exam that we cannot delete)</strong>
+
+
+Admin can add new exam by changing the ranges of a, b, and N ;
+![Screenshot (362)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/64fd76b1-042b-4555-9a88-aecfdcfdc392)
