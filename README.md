@@ -46,3 +46,8 @@ When admin lists the exams ;
 Admin can add new exam by changing the ranges of a, b, and N ;
 
 ![Screenshot (362)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/64fd76b1-042b-4555-9a88-aecfdcfdc392)
+<br/><br/>
+
+When student logins to the system ;
+
+![Screenshot (364)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/3f14cc25-c87f-4a1d-b153-3ae3f0dfafb8)
