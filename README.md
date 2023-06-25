@@ -51,3 +51,13 @@ Admin can add new exam by changing the ranges of a, b, and N ;
 When student logins to the system ;
 
 ![Screenshot (364)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/3f14cc25-c87f-4a1d-b153-3ae3f0dfafb8)
+
+<br/><br/>
+
+The exam starts and the timer is displayed on the screen ;
+
+![Screenshot (365)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/3b0f0d77-5dc3-490f-a0c2-d82d56dd976a)
+
+<br/><br/>
+
+After the student finished exam , the result screen appears to inform the student ;
