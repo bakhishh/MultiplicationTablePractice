@@ -19,3 +19,7 @@ The default exam mode will consist of <strong>N</strong> random questions, where
 <hr style = "height=1px">
 
 When a child starts an exam , <strong>visible timer</strong> is displayed on the screen.The system keep track of which child started which exam, how long it took them to complete the exam and how many questions are answered correctly. These data are kept in a <strong>reporting table</strong> that is visible only to the admin .
+
+<hr style = "height=1px">
+
+![alt text](C:\Users\hp\Pictures\Screenshots\Screenshot (344).png)
