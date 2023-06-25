@@ -63,3 +63,10 @@ The exam starts and the timer is displayed on the screen ;
 After the student finished the exam , the result screen appears to inform the student ;
 
 ![Screenshot (366)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/f2534083-3a41-4427-b42d-50cde49eb36c)
+
+<br/><br/>
+
+And the admin can view the results of the student ;
+
+![Screenshot (368)](https://github.com/bakhishh/MultiplicationTablePractice/assets/108024700/cb711a94-2dd4-4ab7-bf52-3d8dd23b4e48)
+
